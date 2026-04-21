@@ -1,12 +1,12 @@
 {
-  "ids_map_pack_01": {
+  "ids-rt68cannibalchurch": {
     "version": "1.0.0",
     "download": "https://portal.cfx.re/assets/granted-assets",
     "changes": "Initial release."
   },
-  "ids_city_expansion": {
-    "version": "1.2.0",
+  "zotm_custom_maps": {
+    "version": "1.0.0",
     "download": "https://portal.cfx.re/assets/granted-assets",
-    "changes": "Adjusted IPL handling and fixed map overlap near Legion Square."
+    "changes": "Initial release"
   }
 }
